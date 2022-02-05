@@ -1,6 +1,8 @@
 [![Salom Aleykum Mardum!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=&text=Salom%2520Aleykum%2520Mardum%21)](https://pimp-my-readme.webapp.io)
 
+## Here are my current stack of technologies:
 
+[![JavaScript_HTML_CSS_NodeJS_MySQL_ReactJS_PHP_GitLab](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_NodeJS_MySQL_ReactJS_PHP_GitLab)](https://pimp-my-readme.webapp.io)
 <!--
 **Desper-18/Desper-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
