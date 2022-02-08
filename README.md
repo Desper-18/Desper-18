@@ -3,6 +3,9 @@
 ## Here are my current stack of technologies:
 
 [![JavaScript_HTML_CSS_NodeJS_MySQL_ReactJS_PHP_GitLab](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_NodeJS_MySQL_ReactJS_PHP_GitLab)](https://pimp-my-readme.webapp.io)
+
+## Contact me
+[![Facebook](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Facebook)](https://www.facebook.com/khamzaeff)[![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/akbarjonik)
 <!--
 **Desper-18/Desper-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
