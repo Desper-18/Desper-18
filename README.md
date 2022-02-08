@@ -13,9 +13,10 @@
 
 
 ## Contact me
-[![Facebook](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Facebook)](https://www.facebook.com/khamzaeff)
-[![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/akbarjonik)
-[![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/khamzaev/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khamzaeff)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akbarjonik)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Desper_18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khamzaev/)
 
 <!--
 **Desper-18/Desper-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
