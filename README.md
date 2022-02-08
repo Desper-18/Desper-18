@@ -7,6 +7,8 @@
 ## Contact me
 [![Facebook](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Facebook)](https://www.facebook.com/khamzaeff)
 [![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/akbarjonik)
+[![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/khamzaev/)
+
 <!--
 **Desper-18/Desper-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
