@@ -3,7 +3,6 @@
 # Hi there, I'm Akbar Khamzaeff
 
 - 🔭 I’m currently working [@ilmhona](https://ilmhona.org/)
-- 🌱 I’m currently learning PHP and Backend
 
 ## Here are my current stack of technologies:
 
