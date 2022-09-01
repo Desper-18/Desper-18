@@ -1,5 +1,3 @@
-[![Salom Aleykum Mardum!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=&text=Salom%2520Aleykum%2520Mardum%21)](https://pimp-my-readme.webapp.io)
-
 # Hi there, I'm Akbar Khamzaeff
 
 - 🔭 I’m currently working [@ilmhona](https://ilmhona.org/)
