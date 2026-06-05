@@ -1,4 +1,4 @@
-# Hi, I'm Akbar Khamidov 👋
+# Hi, I'm Akbar Khamzaev 👋
 
 Frontend Engineer · Dushanbe, Tajikistan · 6+ years commercial experience
 
@@ -7,7 +7,7 @@ Frontend Engineer · Dushanbe, Tajikistan · 6+ years commercial experience
 - 🔭 Currently working at **[Amar](https://amar.tj)** — real estate ad platform (apartments, houses, commercial spaces)
 - 🏗️ Architecture: **Feature-Sliced Design (FSD)**
 - 🌱 Learning: Spanish via Dreaming Spanish (comprehensible input method)
-- 🗣️ Languages: Tajik · Russian · English · Chinese · Turkish
+- 🗣️ Languages: Tajik · Russian · English · Uzbek · Turkish
 
 ---
 
