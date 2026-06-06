@@ -11,8 +11,7 @@ Frontend Engineer · Dushanbe, Tajikistan · 6+ years commercial experience
 ---
 
 ![GitHub Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-github-readme-stats.svg)
+<!-- ![Top Languages](./profile/top-langs.svg) -->
 
 ---
 
