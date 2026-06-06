@@ -10,7 +10,7 @@ Frontend Engineer · Dushanbe, Tajikistan · 6+ years commercial experience
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Desper-18&show_icons=true&theme=dark)
 
 ---
 
